@@ -1,6 +1,6 @@
 {
   "name": "angular-jacklmoore-zoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/tamvm/angular-jacklmoore-zoom",
   "authors": [
     "Tam Vo"
@@ -8,7 +8,7 @@
   "description": "Angular implemetation for jacklmoore-zoom",
   "main": "",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "jquery-zoom": "1.7.21"
   }
 }
