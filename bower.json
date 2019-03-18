@@ -1,0 +1,13 @@
+{
+  "name": "angular-jacklmoore-zoom",
+  "homepage": "https://github.com/tamvm/angular-jacklmoore-zoom",
+  "authors": [
+    "Tam Vo"
+  ],
+  "description": "Angular implemetation for jacklmoore-zoom",
+  "main": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery-zoom": "1.7.21"
+  }
+}
