@@ -60,7 +60,7 @@
       preparePlugin($element, options);
 
       function preparePlugin(element, options) {
-        var plugin = angular.element(element).zoom(options);
+        var plugin = jQuery(angular.element(element)).zoom(options);
         return lastPlugin;
       }
     }
